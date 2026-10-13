@@ -1,0 +1,8 @@
+[
+  {"name": "Cerebras Inference rate limits",
+   "url": "https://inference-docs.cerebras.ai/support/rate-limits",
+   "care": "my side project's summariser runs on the Cerebras free tier with gpt-oss-120b and I have no card on file"},
+  {"name": "Brave Search API",
+   "url": "https://brave.com/search/api/",
+   "care": "my client's site search calls the Brave Search API on the free plan, about 1,500 queries a month"}
+]
