@@ -1,0 +1,256 @@
+{
+  "provider": "google-ai-studio:gemma-4-31b-it",
+  "free_offering": "The Free tier provides access to several models with specific rate limits for tokens and requests per minute, hour, and day.",
+  "requires_payment_method": null,
+  "facts": [
+    {
+      "key": "free.gpt_oss_120b.tpm",
+      "value": "60K",
+      "quote": "gpt-oss-120b | 60K | 1M | 1M | 30 | 900 | 14.4K |"
+    },
+    {
+      "key": "free.gpt_oss_120b.tph",
+      "value": "1M",
+      "quote": "gpt-oss-120b | 60K | 1M | 1M | 30 | 900 | 14.4K |"
+    },
+    {
+      "key": "free.gpt_oss_120b.tpd",
+      "value": "1M",
+      "quote": "gpt-oss-120b | 60K | 1M | 1M | 30 | 900 | 14.4K |"
+    },
+    {
+      "key": "free.gpt_oss_120b.rpm",
+      "value": "30",
+      "quote": "gpt-oss-120b | 60K | 1M | 1M | 30 | 900 | 14.4K |"
+    },
+    {
+      "key": "free.gpt_oss_120b.rph",
+      "value": "900",
+      "quote": "gpt-oss-120b | 60K | 1M | 1M | 30 | 900 | 14.4K |"
+    },
+    {
+      "key": "free.gpt_oss_120b.rpd",
+      "value": "14.4K",
+      "quote": "gpt-oss-120b | 60K | 1M | 1M | 30 | 900 | 14.4K |"
+    },
+    {
+      "key": "free.llama3_1_8b.tpm",
+      "value": "60K",
+      "quote": "llama3.1-8b | 60K | 1M | 1M | 30 | 900 | 14.4K |"
+    },
+    {
+      "key": "free.llama3_1_8b.tph",
+      "value": "1M",
+      "quote": "llama3.1-8b | 60K | 1M | 1M | 30 | 900 | 14.4K |"
+    },
+    {
+      "key": "free.llama3_1_8b.tpd",
+      "value": "1M",
+      "quote": "llama3.1-8b | 60K | 1M | 1M | 30 | 900 | 14.4K |"
+    },
+    {
+      "key": "free.llama3_1_8b.rpm",
+      "value": "30",
+      "quote": "llama3.1-8b | 60K | 1M | 1M | 30 | 900 | 14.4K |"
+    },
+    {
+      "key": "free.llama3_1_8b.rph",
+      "value": "900",
+      "quote": "llama3.1-8b | 60K | 1M | 1M | 30 | 900 | 14.4K |"
+    },
+    {
+      "key": "free.llama3_1_8b.rpd",
+      "value": "14.4K",
+      "quote": "llama3.1-8b | 60K | 1M | 1M | 30 | 900 | 14.4K |"
+    },
+    {
+      "key": "free.llama_3_3_70b.tpm",
+      "value": "60K",
+      "quote": "llama-3.3-70b | 60K | 1M | 1M | 30 | 900 | 14.4K |"
+    },
+    {
+      "key": "free.llama_3_3_70b.tph",
+      "value": "1M",
+      "quote": "llama-3.3-70b | 60K | 1M | 1M | 30 | 900 | 14.4K |"
+    },
+    {
+      "key": "free.llama_3_3_70b.tpd",
+      "value": "1M",
+      "quote": "llama-3.3-70b | 60K | 1M | 1M | 30 | 900 | 14.4K |"
+    },
+    {
+      "key": "free.llama_3_3_70b.rpm",
+      "value": "30",
+      "quote": "llama-3.3-70b | 60K | 1M | 1M | 30 | 900 | 14.4K |"
+    },
+    {
+      "key": "free.llama_3_3_70b.rph",
+      "value": "900",
+      "quote": "llama-3.3-70b | 60K | 1M | 1M | 30 | 900 | 14.4K |"
+    },
+    {
+      "key": "free.llama_3_3_70b.rpd",
+      "value": "14.4K",
+      "quote": "llama-3.3-70b | 60K | 1M | 1M | 30 | 900 | 14.4K |"
+    },
+    {
+      "key": "free.qwen_3_32b.tpm",
+      "value": "60K",
+      "quote": "qwen-3-32b | 60K | 1M | 1M | 30 | 900 | 14.4K |"
+    },
+    {
+      "key": "free.qwen_3_32b.tph",
+      "value": "1M",
+      "quote": "qwen-3-32b | 60K | 1M | 1M | 30 | 900 | 14.4K |"
+    },
+    {
+      "key": "free.qwen_3_32b.tpd",
+      "value": "1M",
+      "quote": "qwen-3-32b | 60K | 1M | 1M | 30 | 900 | 14.4K |"
+    },
+    {
+      "key": "free.qwen_3_32b.rpm",
+      "value": "30",
+      "quote": "qwen-3-32b | 60K | 1M | 1M | 30 | 900 | 14.4K |"
+    },
+    {
+      "key": "free.qwen_3_32b.rph",
+      "value": "900",
+      "quote": "qwen-3-32b | 60K | 1M | 1M | 30 | 900 | 14.4K |"
+    },
+    {
+      "key": "free.qwen_3_32b.rpd",
+      "value": "14.4K",
+      "quote": "qwen-3-32b | 60K | 1M | 1M | 30 | 900 | 14.4K |"
+    },
+    {
+      "key": "free.qwen_3_235b_a22b_instruct_2507.tpm",
+      "value": "60K",
+      "quote": "qwen-3-235b-a22b-instruct-2507 | 60K | 1M | 1M | 30 | 900 | 14.4K |"
+    },
+    {
+      "key": "free.qwen_3_235b_a22b_instruct_2507.tph",
+      "value": "1M",
+      "quote": "qwen-3-235b-a22b-instruct-2507 | 60K | 1M | 1M | 30 | 900 | 14.4K |"
+    },
+    {
+      "key": "free.qwen_3_235b_a22b_instruct_2507.tpd",
+      "value": "1M",
+      "quote": "qwen-3-235b-a22b-instruct-2507 | 60K | 1M | 1M | 30 | 900 | 14.4K |"
+    },
+    {
+      "key": "free.qwen_3_235b_a22b_instruct_2507.rpm",
+      "value": "30",
+      "quote": "qwen-3-235b-a22b-instruct-2507 | 60K | 1M | 1M | 30 | 900 | 14.4K |"
+    },
+    {
+      "key": "free.qwen_3_235b_a22b_instruct_2507.rph",
+      "value": "900",
+      "quote": "qwen-3-235b-a22b-instruct-2507 | 60K | 1M | 1M | 30 | 900 | 14.4K |"
+    },
+    {
+      "key": "free.qwen_3_235b_a22b_instruct_2507.rpd",
+      "value": "14.4K",
+      "quote": "qwen-3-235b-a22b-instruct-2507 | 60K | 1M | 1M | 30 | 900 | 14.4K |"
+    },
+    {
+      "key": "free.zai_glm_4_7.tpm",
+      "value": "60K",
+      "quote": "zai-glm-4.7 | 60K | 1M | 1M | 10 | 100 | 100 |"
+    },
+    {
+      "key": "free.zai_glm_4_7.tph",
+      "value": "1M",
+      "quote": "zai-glm-4.7 | 60K | 1M | 1M | 10 | 100 | 100 |"
+    },
+    {
+      "key": "free.zai_glm_4_7.tpd",
+      "value": "1M",
+      "quote": "zai-glm-4.7 | 60K | 1M | 1M | 10 | 100 | 100 |"
+    },
+    {
+      "key": "free.zai_glm_4_7.rpm",
+      "value": "10",
+      "quote": "zai-glm-4.7 | 60K | 1M | 1M | 10 | 100 | 100 |"
+    },
+    {
+      "key": "free.zai_glm_4_7.rph",
+      "value": "100",
+      "quote": "zai-glm-4.7 | 60K | 1M | 1M | 10 | 100 | 100 |"
+    },
+    {
+      "key": "free.zai_glm_4_7.rpd",
+      "value": "100",
+      "quote": "zai-glm-4.7 | 60K | 1M | 1M | 10 | 100 | 100 |"
+    },
+    {
+      "key": "developer.gpt_oss_120b.tpm",
+      "value": "1M",
+      "quote": "gpt-oss-120b | 1M | 1K |"
+    },
+    {
+      "key": "developer.gpt_oss_120b.rpm",
+      "value": "1K",
+      "quote": "gpt-oss-120b | 1M | 1K |"
+    },
+    {
+      "key": "developer.llama3_1_8b.tpm",
+      "value": "1M",
+      "quote": "llama3.1-8b | 1M | 1K |"
+    },
+    {
+      "key": "developer.llama3_1_8b.rpm",
+      "value": "1K",
+      "quote": "llama3.1-8b | 1M | 1K |"
+    },
+    {
+      "key": "developer.llama_3_3_70b.tpm",
+      "value": "1M",
+      "quote": "llama-3.3-70b | 1M | 1K |"
+    },
+    {
+      "key": "developer.llama_3_3_70b.rpm",
+      "value": "1K",
+      "quote": "llama-3.3-70b | 1M | 1K |"
+    },
+    {
+      "key": "developer.qwen_3_32b.tpm",
+      "value": "1M",
+      "quote": "qwen-3-32b | 1M | 1K |"
+    },
+    {
+      "key": "developer.qwen_3_32b.rpm",
+      "value": "1K",
+      "quote": "qwen-3-32b | 1M | 1K |"
+    },
+    {
+      "key": "developer.qwen_3_235b_a22b_instruct_2507.tpm",
+      "value": "1M",
+      "quote": "qwen-3-235b-a22b-instruct-2507 | 1M | 1K |"
+    },
+    {
+      "key": "developer.qwen_3_235b_a22b_instruct_2507.rpm",
+      "value": "1K",
+      "quote": "qwen-3-235b-a22b-instruct-2507 | 1M | 1K |"
+    },
+    {
+      "key": "developer.zai_glm_4_7.tpm",
+      "value": "500K",
+      "quote": "zai-glm-4.7 | 500K | 500 |"
+    },
+    {
+      "key": "developer.zai_glm_4_7.rpm",
+      "value": "500",
+      "quote": "zai-glm-4.7 | 500K | 500 |"
+    },
+    {
+      "key": "developer.pricing_model",
+      "value": "pay-as-you-go",
+      "quote": "Since this tier uses pay-as-you-go pricing, you can use as many tokens as needed within your budget."
+    }
+  ],
+  "dropped_unverified": [],
+  "when": "2026-02-12 (Wayback)",
+  "source": "wayback:20260212085414",
+  "page_chars": 5815
+}

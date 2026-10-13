@@ -1,0 +1,32 @@
+{
+  "provider": "google-ai-studio:gemma-4-26b-a4b-it",
+  "free_offering": "The Free AI plan allows users to get familiar with the API with 1 query per second and up to 2,000 queries per month for $0.",
+  "requires_payment_method": true,
+  "facts": [
+    {
+      "key": "free_ai.api.cost",
+      "value": "$0",
+      "quote": "$0"
+    },
+    {
+      "key": "free_ai.api.rps",
+      "value": "1 query/second",
+      "quote": "1 query/second"
+    },
+    {
+      "key": "free_ai.api.monthly_limit",
+      "value": "Up to 2,000 queries/month",
+      "quote": "Up to 2,000 queries/month"
+    }
+  ],
+  "dropped_unverified": [
+    {
+      "key": "free_ai.subscription.credit_card_required",
+      "value": "true",
+      "quote": "Why is a credit card required to subscribe to a free plan?"
+    }
+  ],
+  "when": "2026-01-13 (Wayback)",
+  "source": "wayback:20260113061705",
+  "page_chars": 29958
+}

@@ -1,0 +1,81 @@
+{
+  "provider": "google-ai-studio:gemma-4-26b-a4b-it",
+  "free_offering": "New accounts receive $5 in free credits after adding a verified payment method, which expire 30 days after they’re granted.",
+  "requires_payment_method": true,
+  "facts": [
+    {
+      "key": "free_trial.credits",
+      "value": "$5",
+      "quote": "$5 in free credits"
+    },
+    {
+      "key": "free_trial.expiration",
+      "value": "30 days",
+      "quote": "expire 30 days after they’re granted"
+    },
+    {
+      "key": "free.gpt_oss_120b.rpm",
+      "value": "5",
+      "quote": "gpt-oss-120b | 5 | 30K | 90K | 1M | 1M |"
+    },
+    {
+      "key": "free.gpt_oss_120b.tpm",
+      "value": "30K",
+      "quote": "gpt-oss-120b | 5 | 30K | 90K | 1M | 1M |"
+    },
+    {
+      "key": "free.gpt_oss_120b.tph",
+      "value": "1M",
+      "quote": "gpt-oss-120b | 5 | 30K | 90K | 1M | 1M |"
+    },
+    {
+      "key": "free.gpt_oss_120b.tpd",
+      "value": "1M",
+      "quote": "gpt-oss-120b | 5 | 30K | 90K | 1M | 1M |"
+    },
+    {
+      "key": "free.qwen_3_8_27b.rpm",
+      "value": "5",
+      "quote": "qwen-3.8-27b ^1 | 5 | 30K | 90K | 1M | 1M |"
+    },
+    {
+      "key": "free.qwen_3_8_27b.tpm",
+      "value": "30K",
+      "quote": "qwen-3.8-27b ^1 | 5 | 30K | 90K | 1M | 1M |"
+    },
+    {
+      "key": "free.qwen_3_8_27b.tph",
+      "value": "1M",
+      "quote": "qwen-3.8-27b ^1 | 5 | 30K | 90K | 1M | 1M |"
+    },
+    {
+      "key": "free.qwen_3_8_27b.tpd",
+      "value": "1M",
+      "quote": "qwen-3.8-27b ^1 | 5 | 30K | 90K | 1M | 1M |"
+    },
+    {
+      "key": "developer.gpt_oss_120b.rpm",
+      "value": "1K",
+      "quote": "gpt-oss-120b | 1M | 3M | 1K |"
+    },
+    {
+      "key": "developer.gpt_oss_120b.tpm",
+      "value": "1M",
+      "quote": "gpt-oss-120b | 1M | 3M | 1K |"
+    },
+    {
+      "key": "developer.qwen_3_8_27b.rpm",
+      "value": "300",
+      "quote": "qwen-3.8-27b ^1 | 150K | 750K ^2 | 300 |"
+    },
+    {
+      "key": "developer.qwen_3_8_27b.tpm",
+      "value": "150K",
+      "quote": "qwen-3.8-27b ^1 | 150K | 750K ^2 | 300 |"
+    }
+  ],
+  "dropped_unverified": [],
+  "when": "2026-10-06 (Wayback)",
+  "source": "wayback:20261006074613",
+  "page_chars": 7831
+}

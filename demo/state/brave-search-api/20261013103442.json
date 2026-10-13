@@ -1,0 +1,42 @@
+{
+  "provider": "google-ai-studio:gemma-4-31b-it",
+  "free_offering": "New users get $5 in free monthly credits.",
+  "requires_payment_method": true,
+  "facts": [
+    {
+      "key": "free.monthly_credits",
+      "value": "$5",
+      "quote": "Includes $5 in free credits every month"
+    },
+    {
+      "key": "search.qps",
+      "value": "50 queries per second",
+      "quote": "50 queries per second"
+    },
+    {
+      "key": "answers.cost_tokens",
+      "value": "$5 per million input/output tokens",
+      "quote": "+ $5 per million input/output tokens"
+    },
+    {
+      "key": "answers.qps",
+      "value": "2 queries per second",
+      "quote": "2 queries per second"
+    }
+  ],
+  "dropped_unverified": [
+    {
+      "key": "search.cost",
+      "value": "$5 per 1,000 requests",
+      "quote": "per 1,000 requests"
+    },
+    {
+      "key": "answers.cost_requests",
+      "value": "$4 per 1,000 requests",
+      "quote": "per 1,000 requests"
+    }
+  ],
+  "when": "2026-10-13",
+  "source": "live",
+  "page_chars": 40588
+}
