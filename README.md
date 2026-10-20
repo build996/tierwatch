@@ -53,6 +53,14 @@ newer page:
 - `demo/brave-report.md` — Brave Search API page, 2026-01-13 vs live on 2026-10-13
 - `demo/state/` — the extracted snapshots, including facts that were dropped as unverified
 
+### Post-deadline documentation — 2026-10-20
+
+[Video demo (MP4, about 72 seconds)](https://github.com/build996/tierwatch/releases/download/demo-supplement-2026-10-20/tierwatch-supplement-2026-10-20.mp4) · [Recording details](https://github.com/build996/tierwatch/releases/tag/demo-supplement-2026-10-20)
+
+The video was recorded on October 20, after the Hacktoberfest Week 2 deadline. It renders output from an actual offline comparison using unchanged October 13 code (`927b7a5`) and the snapshots already committed in `demo/state/`. It does not run new inference or check live prices; API keys are unset, so the optional model summary is unavailable. The transcript is included with the release.
+
+**Before the deadline:** project code, README, saved snapshots and textual demo reports (October 13 commits `daf5263` and `927b7a5`). **After the deadline:** this documentation note, the video and its transcript only. No project code or functionality changed. This is a dated supplement; organizer acceptance is not assumed.
+
 ## How it works
 
 1. **Fetch** the page (or a Wayback capture) and convert it to text. Table rows stay on one line
